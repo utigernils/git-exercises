@@ -1,0 +1,14 @@
+Auf Branch master
+
+Noch keine Commits
+
+Unversionierte Dateien:
+  (benutzen Sie "git add <Datei>...", um die Änderungen zum Commit vorzumerken)
+	aufgabe-3.out
+	bar.txt
+	foo.txt
+	hello-git/
+	qux.txt
+
+nichts zum Commit vorgemerkt, aber es gibt unversionierte Dateien
+(benutzen Sie "git add" zum Versionieren)
