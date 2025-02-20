@@ -1,0 +1,5 @@
+1- Man möchte schnell einen Überblick über die letzten 5 Commits erhalten, ohne zu viele Details.
+: git log --oneline -n 5
+
+2- Man möchte alle commits einer Person sehen
+: git log --author="Nils Utiger"
